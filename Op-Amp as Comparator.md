@@ -1,5 +1,7 @@
-Op-Amp as Comparator – Output Behavior
-![image]Comparator.png
+# Op-Amp as Comparator – Output Behavior
+## Comparator Circuit
+
+![Comparator](images/comparator.png)
 
 1. Case Vin​>Vref
 When the input voltage Vin becomes greater than the reference voltage Vref, the voltage at the non-inverting input is higher than the voltage at the inverting input.
