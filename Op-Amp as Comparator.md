@@ -1,1 +1,1 @@
-
+Op-Amp as Comparator
