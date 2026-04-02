@@ -1,4 +1,7 @@
+<img width="2531" height="1163" alt="Screenshot 2026-04-02 123834" src="https://github.com/user-attachments/assets/07a3a5da-9a55-4ce2-8367-2dc87ef6af67" />
+
 # 1. What type of waveform appears at the output?
+
 The output is a square wave.
 It switches between:
 HIGH ≈ 5 V (Vcc)
